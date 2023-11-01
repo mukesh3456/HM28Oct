@@ -9147,7 +9147,7 @@ large-title-block
 
 .large-title .sx-title:before {
 	position: absolute;
-	content: attr(data-title);
+	/* content: attr(data-title); */
 	color: rgba(210, 210, 210, 0.1);
 	font-weight: 900;
 	font-size: 130px;
